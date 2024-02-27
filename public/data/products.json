@@ -1,0 +1,22 @@
+[
+  {
+    "name": "PineApple",
+    "price": "12,000Won"
+  },
+  {
+    "name": "WaterMelon",
+    "price": "20,000Won"
+  },
+  {
+    "name": "Apple",
+    "price": "3,000Won"
+  },
+  {
+    "name": "Grapes",
+    "price": "8,000Won"
+  },
+  {
+    "name": "Orange",
+    "price": "4,000Won"
+  }
+]
